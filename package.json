@@ -1,0 +1,9 @@
+{
+  "name": "isaleapyear",
+  "version": "0.1.0",
+  "repo": "hcnn/isaleapyear",
+  "description": "Check if a year is a leap year",
+  "keywords": ["leap year", "calendar function", "calendar"],
+  "license": "MIT",
+  "src": ["isaleapyear.c", "isaleapyear.h"]
+}
